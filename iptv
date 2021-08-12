@@ -1,0 +1,18 @@
+#EXTM3U
+#PLAYLIST:iptvmate.com
+#EXTINF:0 tvg-country="ua" tvg-logo="https://youtv.ua/static/tv/248_7472447177217317.png" ",1+1 HD
+https://stream.youtv.com.ua/v1/3305/1628516700/eyJ0IjoxNjI4NTE3NTMzLCJpIjoiMTc2LjEwOC4xMjAuMzAiLCJjIjozMzA1LCJkIjoiOWI2ZjhkODlkMDhhM2VjYTllYjQzYThjNWI5NWU5Y2MiLCJzIjoxNjI4NTE2NzAwLCJ1IjoyMDcxOTY4fQ==/c8217bea8bfed7dd70c6fbddb9f8d538/NzM=/tracks-v2a1a2/index-1628516700-now.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://youtv.ua/static/tv/278_b585995936624b55.png" ",2+2 HD
+https://stream.youtv.com.ua/v1/3466/1628512200/eyJ0IjoxNjI4NTE3Nzk3LCJpIjoiMTc2LjEwOC4xMjAuMzAiLCJjIjozNDY2LCJkIjoiOWI2ZjhkODlkMDhhM2VjYTllYjQzYThjNWI5NWU5Y2MiLCJzIjoxNjI4NTEyMjAwLCJ1IjoyMDcxOTY4fQ==/a11d2c9528b487aabebe73f0a81252af/NzM=/tracks-v1a1a2/index-1628512200-now.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://youtv.ua/static/tv/279_468da680ee8dea6e.png" ",ТЕТ HD
+https://stream.youtv.com.ua/v1/3467/1628514000/eyJ0IjoxNjI4NTE3OTM3LCJpIjoiMTc2LjEwOC4xMjAuMzAiLCJjIjozNDY3LCJkIjoiOWI2ZjhkODlkMDhhM2VjYTllYjQzYThjNWI5NWU5Y2MiLCJzIjoxNjI4NTE0MDAwLCJ1IjoyMDcxOTY4fQ==/800b48185e3ab2256283fa255b769c8d/NzM=/master.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://youtv.ua/static/tv/212_18ad87af6c66be11.png" ",Paramount Comedy
+https://stream.youtv.com.ua/v1/3259/eyJ0IjoxNjI4NTE4MDU3LCJpIjoiMTc2LjEwOC4xMjAuMzAiLCJjIjozMjU5LCJkIjoiOWI2ZjhkODlkMDhhM2VjYTllYjQzYThjNWI5NWU5Y2MiLCJ1IjoyMDcxOTY4fQ==/c86e400a375863eabe9ac8e91ef6694e/NzM=/master.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://youtv.ua/static/tv/328_99291cc928dd62db.png" ",ПлюсПлюс HD 
+https://stream.youtv.com.ua/v1/3527/eyJ0IjoxNjI4NTE4MTY5LCJpIjoiMTc2LjEwOC4xMjAuMzAiLCJjIjozNTI3LCJkIjoiOWI2ZjhkODlkMDhhM2VjYTllYjQzYThjNWI5NWU5Y2MiLCJ1IjoyMDcxOTY4fQ==/3217a00068b34b7f16d34acdb7590f6b/NzM=/master.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://youtv.ua/static/tv/177_108ddbbb10b6d943.png" ",Квартал ТВ 
+https://stream.youtv.com.ua/v1/2779/eyJ0IjoxNjI4NTE4MjczLCJpIjoiMTc2LjEwOC4xMjAuMzAiLCJjIjoyNzc5LCJkIjoiOWI2ZjhkODlkMDhhM2VjYTllYjQzYThjNWI5NWU5Y2MiLCJ1IjoyMDcxOTY4fQ==/23135cd31185f869baf72166a0f837e8/NzM=/master.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://youtv.ua/static/tv/43_276606566856dd86.png" ",Бігуді 
+https://stream.youtv.com.ua/v1/178/1628514000/eyJ0IjoxNjI4NTE4MzkzLCJpIjoiMTc2LjEwOC4xMjAuMzAiLCJjIjoxNzgsImQiOiI5YjZmOGQ4OWQwOGEzZWNhOWViNDNhOGM1Yjk1ZTljYyIsInMiOjE2Mjg1MTQwMDAsInUiOjIwNzE5Njh9/5b6aae1ed949d261321e5a7500873f26/NzM=/master.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://youtv.ua/static/tv/109_1a5c00afa020353c.png" ",Унiан
+https://stream.youtv.com.ua/v1/599/eyJ0IjoxNjI4NTE4NTExLCJpIjoiMTc2LjEwOC4xMjAuMzAiLCJjIjo1OTksImQiOiI5YjZmOGQ4OWQwOGEzZWNhOWViNDNhOGM1Yjk1ZTljYyIsInUiOjIwNzE5Njh9/feeec3ef47723e00224d47917d180cc8/NzM=/master.m3u8
